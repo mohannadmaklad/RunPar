@@ -61,7 +61,7 @@ Each line correpsonds to a core schedule. i.e. The first line represents the fir
 each runnable is written in the form id[WCET]. 
 For intance, the first line in the output represents the first core scheduling :
 Runnable 1 with WCET of 3, Runnable 2 with WCET of 4
-the [i] in the second line represents an idle runnable with WCET of 3, this meas
+the [i] in the second line represents an idle runnable with WCET of 3, this means
 that runnable 3 will run after runnable 1, because it depends on it.
-Idle runnables are give ids during runtime, starting from 100000 and incrementing by 1
+Idle runnables are given ids during runtime, starting from 100000 and incrementing by 1
 
