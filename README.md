@@ -1,4 +1,4 @@
-# RunPar
+# RunPar - Implementation of RunPar Scheduling Algorithm
 The project is divided into subclasses, each class in a single file and a test file, example : core, core_test
 You can find the main algorithm class in runpar.py
 
